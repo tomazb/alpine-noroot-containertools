@@ -42,3 +42,5 @@ WORKDIR /home/tester
 
 
 USER tester
+
+ENTRYPOINT amicontained
